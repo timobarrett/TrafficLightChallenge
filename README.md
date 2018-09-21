@@ -11,5 +11,4 @@ Code does the following:
     b. 2 seconds for yellow
     c. 1 second for green
 
-Recommend that if faced with a 30 minute 
-challenge like this from a bat crap company that you run, don't walk away!
+
